@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/collegeProjectC/conf/logback.xml,/root/collegeProjectC/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/collegeProjectC/conf/application.conf,/root/collegeProjectC/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/collegeProjectC/conf/routes,/root/collegeProjectC/target/scala-2.12/classes/routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/collegeProjectC/conf/evolutions,/root/collegeProjectC/target/scala-2.12/classes/evolutions)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/collegeProjectC/conf/evolutions/default,/root/collegeProjectC/target/scala-2.12/classes/evolutions/default)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/collegeProjectC/conf/evolutions/default/3.sql,/root/collegeProjectC/target/scala-2.12/classes/evolutions/default/3.sql)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/collegeProjectC/conf/evolutions/default/2.sql,/root/collegeProjectC/target/scala-2.12/classes/evolutions/default/2.sql)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/collegeProjectC/conf/evolutions/default/1.sql,/root/collegeProjectC/target/scala-2.12/classes/evolutions/default/1.sql)[0m

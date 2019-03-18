@@ -1,0 +1,47 @@
+@(pagename: String)(content: Html)
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>@pagename</title>
+
+		<style>
+			body {
+				padding:0;
+				margin:0;
+				background:#f1f2f7;
+			}
+			navbar {
+				justify-content:center;
+				align-items:center;
+				display:flex;
+				width:100%;
+				height:50px;
+				background-color:white;
+				box-shadow: 0px 2px rgba(0,0,0,0.1);
+				font-size:1em;
+				margin-bottom:10px;
+			}
+			navbar #contents {
+				display:flex;
+				align-items:center;
+				width:80%;
+			}
+			navbar #contents #logo {
+				font-weight:bold;
+				font-size:1.3em;
+			}
+		</style>
+	</head>
+
+	<body>
+		<navbar>
+			<div id="contents">
+				<span id="logo">CompanyName</span>
+				<div style="margin-left:auto;">
+					<a href="logout">Log Out</a>
+				</div>
+			</div>
+		</navbar>
+	</body>
+	@content
+</html>
